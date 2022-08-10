@@ -4,5 +4,4 @@ Atualmente venho me aperfeiçoando em desenvolviemnto Full Stack com Angular e J
 
 - Atualmente trabalho com Angular (TypeScript) e Quarkus (Java)
 - Outros interesses são Data Science :bar_chart: e InfoSec :detective:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-ibiapina/)](https://www.linkedin.com/in/jose-ibiapina/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-ibiapina/)](https://www.linkedin.com/in/jose-ibiapina/)
